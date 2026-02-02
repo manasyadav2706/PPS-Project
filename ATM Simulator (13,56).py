@@ -1,5 +1,4 @@
-# ATM SIMULATOR (simple student version)
-# NOTE: quick project for college lab – not super fancy :)
+# ATM SIMULATOR 
 
 import sys
 from PyQt5.QtWidgets import (
@@ -124,3 +123,4 @@ if __name__ == "__main__":
     win = ATM()
     win.show()
     sys.exit(app.exec_())
+
